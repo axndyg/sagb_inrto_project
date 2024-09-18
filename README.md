@@ -106,3 +106,14 @@ Italy: Serie A demonstrated a particularly aggressive style, with almost half of
 
 ### Implications
 This study offers practical insights for teams, coaches, and analysts to improve strategies based on how fouls and shots vary throughout a game. Teams can adjust tactics, knowing when players are more aggressive or take more risks, and coaches can fine-tune training. The data can also be used for better match predictions, scouting, and even in fantasy football (soccer) for player selection. This data can also be useful for referees as they could use these trends to anticipate high-foul moments and make more informed decisions during games.
+
+### Further Improvements & Questions
+This study focused on three countries, allowing us to compare and contrast the soccer games in terms of fouls and shots. To enhance the project, we would expand the analysis to include more countries and possibly different leagues, providing a broader basis for comparing fouls and shots. Additionally, incorporating more metrics—such as goals scored, types of fouls (red/yellow cards), foul locations, and more—would lead to stronger, data-driven conclusions. One key question for further exploration is whether there is a relationship between fouls committed by winning or losing teams, and how this could impact predictions of the game's outcome.
+
+### Thank you!
+- Andres Gutierrez, Twesha Ghosh, Karthik Valluri
+
+
+
+
+
