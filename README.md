@@ -1,5 +1,5 @@
 # How do the number and timing of shots and fouls vary across different European leagues (Italy, England, France), and what patterns emerge when comparing these leagues?
-We looked into 3 different European countries (Italy, England, France) and look into the relationship between fouls and shots attempted. After looking into the 3 different countries, we looked for a relationship within the countries and also compared the 3 countries between each other. 
+We looked into 3 different European countries (Italy, England, France) and look into the relationship between fouls and shots attempted. After looking into the 3 different countries, we looked for a relationship within the countries and also compared the 3 countries between each other. (Final Findings at the bottom)
 
 #### metrics & formalities
 - late game considered t > 60, where t was measured in minutes
@@ -88,3 +88,21 @@ The graph on the left shows late game densities for fouls (red dots) and shots (
 - Shot vs. Density correlation: there seems to be a weak but present correlation to the fouls committed to the shots committed 
   - Late game fouls and early game fouls cluster above the lines of normalcy 
   - See Fig i.8
+
+# Findings/Conclusion
+Football/soccer is a very diverse sport with many different styles of play. There are various factors that go into this from coaching tactics to changing playstyles based on opponents. We can see distinct approaches to the beautiful game from teams just 10 km from each other let alone different nations. Through an in-depth analysis of fouls and shots across three major European leagues (Italy’s Serie A, England’s Premier League, and France’s Ligue 1), we identified several key findings. 
+
+### Trends Between All Three Leagues
+- Across all three leagues, shots and fouls tended to increase as games progressed, particularly in the final third (post-60 minutes). This is likely due to teams taking more risks, seeking to score, or prevent goals as time runs out. The late game intensity reflects a heightened sense of urgency, especially for teams that are trailing in the scoreline.
+- All three leagues showed a notable peak in both fouls and shots just before halftime (40-50 min range). This suggests that players push harder towards the end of the first half, likely driven by the desire to score before the break.
+- There is a slight correlation between fouls and shots. Teams that commit more fouls late in the game tend to also take more shots, indicating a more aggressive style of play as the match nears its conclusion.
+
+### Country-Specific Patterns
+France: Teams were relatively balanced in their distribution of fouls and shots across both the early and late stages of the game, with a slight increase in late-game activity. However, the overall densities were quite evenly spread, with no significant outliers. Ligue 1 teams also tend to play conservatively in the early stages, focusing on maintaining control before ramping up aggression later in the game.
+
+England: The Premier League exhibited a clear pattern of teams favoring late-game shots, with a tendency to play more conservatively in the early stages. Some teams, were more likely to foul and take risks in the late game, possibly due to being in losing positions. A slow buildup of events was observed in the first half, followed by a burst of activity around the 40-50 minute mark and a final surge towards the end of the game (80-90 minutes). This reflects the intense nature of EPL matches, where teams frequently alter strategies as the game unfolds.
+
+Italy: Serie A demonstrated a particularly aggressive style, with almost half of the teams showing significantly higher densities of fouls and shots late in the game. Nearly 40% of fouls and 36% of shots occurred in the last third of the game. Italian teams are known for their tactical focus, and this aggression likely reflects a shift towards counterattacks and defensive intensity as matches approach their climax. Teams adapt dynamically based on the game situation, emphasizing the need for precision in late-game management.
+
+### Implications
+This study offers practical insights for teams, coaches, and analysts to improve strategies based on how fouls and shots vary throughout a game. Teams can adjust tactics, knowing when players are more aggressive or take more risks, and coaches can fine-tune training. The data can also be used for better match predictions, scouting, and even in fantasy football (soccer) for player selection. This data can also be useful for referees as they could use these trends to anticipate high-foul moments and make more informed decisions during games.
