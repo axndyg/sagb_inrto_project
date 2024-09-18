@@ -41,6 +41,7 @@ These graphs are converted from scatter plots to bar graphs to help identify add
 <img width="1027" alt="image" src="https://github.com/user-attachments/assets/6cd1bf64-da68-4318-80cf-8a0973512351">
 The shot and foul graphs reveal that shot density follows a similar trend to foul density in the early game. However, the relationship between the two remains weak.
 
+### France Conclusions
 Our analysis of shots and fouls during games revealed a correlation between the two. When comparing early and late game densities, we found that in the early stages, both shots and fouls were less frequent, more evenly distributed, and often below the threshold. In contrast, the late game showed a higher density of shots and fouls, with many data points exceeding the threshold, indicating a possible relationship between shot attempts and fouls by team. Notably, there was a spike in both fouls and shots during the 40-45th minute, further supporting this correlation. Overall, the findings suggest a connection between shot attempts and fouls in a game.
 
 ## England 🏴󠁧󠁢󠁥󠁮󠁧󠁿
